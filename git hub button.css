@@ -1,0 +1,16 @@
+.sign-up-button{
+    background-color:rgb(46,164,79);
+    color:white;
+    height:30px;
+    width:80px;
+    cursor:pointer;
+    border-radius:7px;
+    margin-left:35px;
+    margin-top:10px;
+    border:none;
+    border-style:solid;
+
+}
+.sign-up-button:hover{
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.24)
+}   
