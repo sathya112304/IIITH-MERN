@@ -1,0 +1,22 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+h1 {
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+}
+.order-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-weight: 00;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+.order-link u {
+    text-decoration: underline;
+}
